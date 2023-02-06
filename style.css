@@ -37,8 +37,8 @@
 }
 
 .input_user input {
-   background-color: white;
-   color: black;
+    background-color: #333b46;
+    color: white;
 
 }
 
@@ -64,7 +64,7 @@
 .centered {
     color: black;
     position: absolute;
-    top: 220px;
+    top: 230px;
     left: 50%;
     transform: translate(-50%, -50%);
   }
