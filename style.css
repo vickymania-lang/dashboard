@@ -64,7 +64,7 @@
 .centered {
     color: black;
     position: absolute;
-    top: 200px;
+    top: 220px;
     left: 50%;
     transform: translate(-50%, -50%);
   }
